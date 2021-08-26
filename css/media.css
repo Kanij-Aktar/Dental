@@ -1,0 +1,180 @@
+@media (min-width:0px) and (max-width:991px){
+    .navbar-nav{
+      text-align: center;
+    }
+    .nav-link {
+      display: inline-block;
+    }
+    .navbar-light .navbar-nav .nav-link::before{
+      bottom: -2px;
+    }
+    .navbar-light .navbar-nav .nav-link::after{
+      bottom: -2px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+      padding: 2px;
+  }
+  .navbar-light .navbar-toggler {
+    border-color: transparent;
+}
+}
+
+@media (min-width:1281px) and (max-width:1440px){
+    .apoinment img {
+        padding-left: 55px;
+    }
+    .welcome-left img {
+        margin-top: 77px;
+    }
+}
+@media (min-width:0px) and (max-width:991px){
+
+}
+@media (min-width:1440px){
+
+}
+@media (min-width:789px) and (max-width:1024px){
+ 
+}
+ 
+@media (min-width:426px) and (max-width:768px){
+
+}
+ @media (min-width:321px) and (max-width:375px){
+  .footer-right ul {
+   
+    margin-left: 0;
+    margin: 0 70px;
+}
+ }
+
+@media (min-width:0px) and (max-width:320px){
+
+}
+@media (min-width:320px) and (max-width:375px){
+  .footer-right {
+    display: block;
+  }
+  .footer-right h3 {
+    color: #fff;
+    text-align: center;
+}
+.slide-content h2 {
+  
+  width: 81%;
+  height: 35px;
+  line-height: 35px;
+  font-size: 18px;
+}
+.slide-content h1 {
+  width: 98%;
+  height: 35px;
+  line-height: 35px;
+  font-size: 18px;
+}
+.owl-dots {
+  bottom: -15px;
+}
+.btn-learn {
+  font-size: 10px;
+}
+.btn-book{
+  font-size: 10px;
+}
+
+.slide-1 {
+  background-image: url(../image/slider-bg.jpg);
+}
+
+.slide-content {
+  text-align: center;
+
+}
+.slide-content p {
+  width: 100%;
+}
+.slide-content p {
+  font-size: 14px;
+}
+.btn-book {
+  margin: 0;
+  margin-left: 5px;
+}
+}
+@media (max-width:320px){
+  .top-img {
+    text-align: center;
+  }
+  .contact-detail {
+    display: none;
+}
+.apoinment {
+  display: none;
+}
+.welcome-left {
+  height: 0;
+}
+.welcome-left img {
+display: none;
+}
+.welcome-right {
+  text-align: center;
+}
+.welcome-right-top p {
+  text-align: center;
+  font-size: 14px;
+}
+.welcome-right-top {
+  width: 100%;
+}
+.welcome-right-top h1 {
+  text-align: center;
+  font-size: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+.welcome-right-service p {
+  font-size: 14px;
+  text-align: center;
+}
+.welcome-right-service h1 {
+  font-size: 20px;
+  margin-top: 10px;
+}
+.doctors-top {
+  margin-bottom: 37px;
+}
+.doctors-details {
+  margin-bottom: 15px;
+}
+.services-information h3 {
+  font-size: 20px;
+}
+.services-information p {
+  font-size: 14px;
+}
+.services-information h5 {
+  font-size: 14px;
+}
+.pricing-list {
+  width: 90%;
+  margin-left: 5%;
+  margin-bottom: 15px;
+}
+.footer-right ul {
+  margin-left: 0;
+  margin: 0 40px;
+}
+.owl-dots {
+  bottom: -30px;
+}
+.slide-content h2 {
+  margin-left: 22px;
+}
+.owl-dots {
+  bottom: -10px;
+}
+.dental-plus img {
+  padding: 0 45px;
+}
+}
